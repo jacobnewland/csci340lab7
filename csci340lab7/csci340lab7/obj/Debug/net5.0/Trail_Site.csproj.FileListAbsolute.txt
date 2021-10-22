@@ -1,0 +1,7 @@
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.RazorAssemblyInfo.cache
+C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\Trail_Site.RazorAssemblyInfo.cs
