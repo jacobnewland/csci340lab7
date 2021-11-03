@@ -29,6 +29,11 @@
                 <span asp-validation-for="Trail.Length" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Trail.Difficulty" class="control-label"></label>
+                <input asp-for="Trail.Difficulty" class="form-control" />
+                <span asp-validation-for="Trail.Difficulty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>

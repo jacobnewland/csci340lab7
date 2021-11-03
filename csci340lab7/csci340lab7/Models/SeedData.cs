@@ -1,4 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿#define Difficulty
+#if Difficulty
+#region snippet_1 
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using csci340lab7.Data;
 using System;
@@ -26,6 +29,7 @@ namespace csci340lab7.Models
                         Name = "Ouachita Trail",
                         Location = "Arkansas",
                         Length = 300,
+                        Difficulty = 6,
                     },
 
                      new Trail
@@ -33,6 +37,7 @@ namespace csci340lab7.Models
                          Name = "John Muir Trail",
                          Location = "California",
                          Length = 225,
+                         Difficulty = 9,
                      },
 
                      new Trail
@@ -40,6 +45,7 @@ namespace csci340lab7.Models
                          Name = "Grand Canyon North Rim",
                          Location = "Arizona",
                          Length = 650,
+                         Difficulty = 10,
                      },
 
                      new Trail
@@ -47,6 +53,7 @@ namespace csci340lab7.Models
                          Name = "Across Colorado Trail",
                          Location = "Colorado",
                          Length = 550,
+                         Difficulty = 7,
                      }
                 );
                 context.SaveChanges();
@@ -54,3 +61,5 @@ namespace csci340lab7.Models
         }
     }
 }
+#endregion
+#endif

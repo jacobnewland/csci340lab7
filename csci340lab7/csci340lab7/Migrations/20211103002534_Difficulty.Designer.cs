@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using csci340lab7.Data;
 
 namespace csci340lab7.Migrations
 {
     [DbContext(typeof(csci340lab7Context))]
-    partial class csci340lab7ContextModelSnapshot : ModelSnapshot
+    [Migration("20211103002534_Difficulty")]
+    partial class Difficulty
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

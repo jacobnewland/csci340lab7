@@ -9,7 +9,6 @@ C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\bin
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\bin\Debug\net5.0\csci340lab7.pdb
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\bin\Debug\net5.0\csci340lab7.Views.dll
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\bin\Debug\net5.0\csci340lab7.Views.pdb
-C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\csci340lab7.csproj.AssemblyReference.cache
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\csci340lab7.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\csci340lab7.AssemblyInfoInputs.cache
 C:\Users\jacob\OneDrive\Documents\GitHub\csci340lab7\csci340lab7\csci340lab7\obj\Debug\net5.0\csci340lab7.AssemblyInfo.cs

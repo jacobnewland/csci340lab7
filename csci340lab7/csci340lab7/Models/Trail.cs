@@ -16,5 +16,6 @@ namespace csci340lab7.Models
 
         [Display(Name = "Length in Miles")]
         public decimal Length { get; set; }
+        public decimal Difficulty { get; set; }
     }
 }
